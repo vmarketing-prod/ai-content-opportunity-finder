@@ -25,16 +25,10 @@ This project demonstrates how AI can accelerate strategic content planning — t
 Columns expected in the input CSV:
 keyword,search_volume,difficulty,ctr,current_url
 
-sql
-Copy code
-
 ## Example output
 
 Each row in the output contains:
 keyword,search_intent,aeo_opportunity,content_action,ai_reasoning
-
-shell
-Copy code
 
 ## Prompts
 
@@ -46,9 +40,6 @@ pandas
 openai
 matplotlib
 plotly
-
-csharp
-Copy code
 
 ## License
 
